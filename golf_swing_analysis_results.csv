@@ -1,0 +1,61 @@
+﻿video_id,env,band,coach_score,ai_similarity,feedback
+1,Indoor,Band 2-4,3.0,0.535,"Swing trung bình, có tiềm năng cải thiện rõ rệt.
+
+Điểm mạnh: Ổn định tốt (ít sway).; Tốc độ tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Impact khó xác định → swing có thể thiếu rõ ràng.; Backswing ngắn → transition vội → dễ mất kiểm soát..
+
+So với label gốc (band): 3 → Similarity AI: 0.535"
+2,Outdoor,Band 1-2,1.5,0.548,"Swing trung bình, có tiềm năng cải thiện rõ rệt.
+
+Điểm mạnh: Ổn định tốt (ít sway).; Tốc độ tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Impact khó xác định → swing có thể thiếu rõ ràng..
+
+So với label gốc (band): 1.5 → Similarity AI: 0.548"
+3,Indoor,Band 4-6,5.0,0.458,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Ổn định tốt (ít sway)..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Tốc độ wrist thấp → thiếu lag và acceleration → khoảng cách ngắn.; Impact khó xác định → swing có thể thiếu rõ ràng..
+
+So với label gốc (band): 5 → Similarity AI: 0.458"
+4,Indoor,Band 4-6,5.0,0.385,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Tốc độ tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Hip sway cao → gây mất ổn định, thường dẫn đến hook/slice.; Impact khó xác định → swing có thể thiếu rõ ràng.; Backswing ngắn → transition vội → dễ mất kiểm soát..
+
+So với label gốc (band): 5 → Similarity AI: 0.385"
+5,Indoor,Band 2-4,3.0,0.404,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Ổn định tốt (ít sway)..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Tốc độ wrist thấp → thiếu lag và acceleration → khoảng cách ngắn.; Impact khó xác định → swing có thể thiếu rõ ràng.; Backswing ngắn → transition vội → dễ mất kiểm soát..
+
+So với label gốc (band): 3 → Similarity AI: 0.404"
+6,Outdoor,Band 6-8,7.0,0.522,"Swing trung bình, có tiềm năng cải thiện rõ rệt.
+
+Điểm mạnh: Tốc độ tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Hip sway cao → gây mất ổn định, thường dẫn đến hook/slice.; Impact khó xác định → swing có thể thiếu rõ ràng..
+
+So với label gốc (band): 7 → Similarity AI: 0.522"
+7,Outdoor,Band 8-10,9.0,0.444,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Ổn định tốt (ít sway)..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Tốc độ wrist thấp → thiếu lag và acceleration → khoảng cách ngắn.; Impact khó xác định → swing có thể thiếu rõ ràng.; Backswing ngắn → transition vội → dễ mất kiểm soát..
+
+So với label gốc (band): 9 → Similarity AI: 0.444"
+8,Indoor,Band 8-10,9.0,0.436,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Ổn định tốt (ít sway)..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Tốc độ wrist thấp → thiếu lag và acceleration → khoảng cách ngắn.; Impact khó xác định → swing có thể thiếu rõ ràng..
+
+So với label gốc (band): 9 → Similarity AI: 0.436"
+9,Outdoor,Band 2-4,3.0,0.465,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Ổn định tốt (ít sway)..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Tốc độ wrist thấp → thiếu lag và acceleration → khoảng cách ngắn.; Impact khó xác định → swing có thể thiếu rõ ràng..
+
+So với label gốc (band): 3 → Similarity AI: 0.465"
+10,Outdoor,Band 6-8,7.0,0.421,"Cần luyện tập nhiều hơn để cải thiện biomechanics cơ bản.
+
+Điểm mạnh: Ổn định tốt (ít sway)..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng hoặc slice.; Tốc độ wrist thấp → thiếu lag và acceleration → khoảng cách ngắn.; Impact khó xác định → swing có thể thiếu rõ ràng..
+
+So với label gốc (band): 7 → Similarity AI: 0.421"

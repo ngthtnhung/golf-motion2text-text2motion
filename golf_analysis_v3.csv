@@ -1,0 +1,71 @@
+﻿video_id,env,band,coach_score,ai_similarity,feedback
+1,Indoor,Band 2-4,3.0,0.72,"Swing khá, chỉ cần chỉnh nhỏ.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Lỗi chính: Rotation quá mức; Impact khó xác định.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Kiểm tra setup và tempo cơ bản..
+
+Coach score: 3 | AI similarity: 0.720"
+2,Outdoor,Band 1-2,1.5,0.725,"Swing khá, chỉ cần chỉnh nhỏ.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Lỗi chính: Rotation quá mức; Impact khó xác định.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Kiểm tra setup và tempo cơ bản..
+
+Coach score: 1.5 | AI similarity: 0.725"
+3,Indoor,Band 4-6,5.0,0.645,"Swing trung bình, tiềm năng cải thiện.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Lỗi chính: Rotation quá mức; Impact khó xác định.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Kiểm tra setup và tempo cơ bản..
+
+Coach score: 5 | AI similarity: 0.645"
+4,Indoor,Band 4-6,5.0,0.685,"Swing khá, chỉ cần chỉnh nhỏ.
+
+Điểm mạnh: Tốc độ ổn..
+Lỗi chính: Rotation quá mức; Hip sway cao.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Drill feet together hoặc alignment stick trên hông..
+
+Coach score: 5 | AI similarity: 0.685"
+5,Indoor,Band 2-4,3.0,0.592,"Swing trung bình, tiềm năng cải thiện.
+
+Điểm mạnh: Ổn định tốt..
+Lỗi chính: Rotation quá mức; Tốc độ wrist thấp.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Luyện lag drill với towel hoặc pump drill..
+
+Coach score: 3 | AI similarity: 0.592"
+6,Outdoor,Band 6-8,7.0,0.717,"Swing khá, chỉ cần chỉnh nhỏ.
+
+Điểm mạnh: Tốc độ ổn..
+Lỗi chính: Rotation quá mức; Hip sway cao.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Drill feet together hoặc alignment stick trên hông..
+
+Coach score: 7 | AI similarity: 0.717"
+7,Outdoor,Band 8-10,9.0,0.648,"Swing trung bình, tiềm năng cải thiện.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Lỗi chính: Rotation quá mức; Impact khó xác định.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Kiểm tra setup và tempo cơ bản..
+
+Coach score: 9 | AI similarity: 0.648"
+8,Indoor,Band 8-10,9.0,0.636,"Swing trung bình, tiềm năng cải thiện.
+
+Điểm mạnh: Ổn định tốt..
+Lỗi chính: Rotation quá mức; Tốc độ wrist thấp.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Luyện lag drill với towel hoặc pump drill..
+
+Coach score: 9 | AI similarity: 0.636"
+9,Outdoor,Band 2-4,3.0,0.766,"Swing khá, chỉ cần chỉnh nhỏ.
+
+Điểm mạnh: Ổn định tốt..
+Lỗi chính: Rotation quá mức; Tốc độ wrist thấp.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Luyện lag drill với towel hoặc pump drill..
+
+Coach score: 3 | AI similarity: 0.766"
+10,Outdoor,Band 6-8,7.0,0.617,"Swing trung bình, tiềm năng cải thiện.
+
+Điểm mạnh: Ổn định tốt..
+Lỗi chính: Rotation quá mức; Tốc độ wrist thấp.
+Gợi ý luyện: Giảm over-rotation bằng drill giữ head steady.; Luyện lag drill với towel hoặc pump drill..
+
+Coach score: 7 | AI similarity: 0.617"

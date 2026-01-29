@@ -1,0 +1,61 @@
+﻿video_id,env,band,coach_score,ai_similarity,feedback
+1,Indoor,Band 2-4,3.0,0.496,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Impact khó xác định → swing thiếu rõ ràng.; Backswing ngắn → transition vội..
+
+Coach score gốc: 3 | AI similarity: 0.496"
+2,Outdoor,Band 1-2,1.5,0.49,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 1.5 | AI similarity: 0.490"
+3,Indoor,Band 4-6,5.0,0.365,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 5 | AI similarity: 0.365"
+4,Indoor,Band 4-6,5.0,0.378,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Tốc độ ổn..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Hip sway cao → mất ổn định, dễ hook/slice.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 5 | AI similarity: 0.378"
+5,Indoor,Band 2-4,3.0,0.326,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Tốc độ wrist thấp → thiếu acceleration.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 3 | AI similarity: 0.326"
+6,Outdoor,Band 6-8,7.0,0.45,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Tốc độ ổn..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Hip sway cao → mất ổn định, dễ hook/slice.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 7 | AI similarity: 0.450"
+7,Outdoor,Band 8-10,9.0,0.368,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt.; Tốc độ ổn..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Impact khó xác định → swing thiếu rõ ràng.; Backswing ngắn → transition vội..
+
+Coach score gốc: 9 | AI similarity: 0.368"
+8,Indoor,Band 8-10,9.0,0.345,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Tốc độ wrist thấp → thiếu acceleration.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 9 | AI similarity: 0.345"
+9,Outdoor,Band 2-4,3.0,0.548,"Swing trung bình, tiềm năng cải thiện.
+
+Điểm mạnh: Ổn định tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Tốc độ wrist thấp → thiếu acceleration.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 3 | AI similarity: 0.548"
+10,Outdoor,Band 6-8,7.0,0.337,"Cần luyện tập nhiều để cải thiện cơ bản.
+
+Điểm mạnh: Ổn định tốt..
+Cần cải thiện: Rotation quá mức → dễ mất cân bằng/slice.; Tốc độ wrist thấp → thiếu acceleration.; Impact khó xác định → swing thiếu rõ ràng..
+
+Coach score gốc: 7 | AI similarity: 0.337"
